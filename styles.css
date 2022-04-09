@@ -160,6 +160,6 @@ body{
 }
 
 .container__botao:hover{
-    background-color: white;
+    background-color: var(--botao-azul-efeito);
     color: rgb(0, 0, 0);
 }
